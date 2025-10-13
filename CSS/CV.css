@@ -1,0 +1,52 @@
+.color {
+    border: solid;
+    border-color: #704214;
+    border-radius: 15px;
+    margin-left: 1vh;
+    margin-right: 1vh;
+    margin-top: 8vh;
+    margin-bottom: 8vh;
+    color: azure;
+    background-color:#c49662 ;
+}
+
+
+#cv{
+    background-image: url("../image/Fond\ gris.PNG");
+    background-size: cover;
+    height: 75rem;
+}
+
+button {
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+#top {
+
+    width: 100%;
+    float: inline-start;
+    align-content: center;
+
+}
+
+#left {
+    width: 25%;
+    float: left;
+}
+
+#right {
+    width: 75%;
+    float: right;
+}
+
+h2,
+h6,
+h3 {
+    margin-left: 10px;
+    margin-top: 1%;
+}
+
+button {
+    background-color: whitesmoke;
+}
