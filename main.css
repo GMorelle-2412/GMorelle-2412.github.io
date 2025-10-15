@@ -8,10 +8,22 @@ h1{
     background-size: cover;
 }
 
+#présentation{
+    text-align: start;
+}
+
+#wikipedia{
+    border: solid;
+}
+
 span{
     float: right;
     color: white;
     margin-left: 10%;
+}
+
+#img_Deck{
+    
 }
 
 #body {
@@ -26,6 +38,10 @@ a{
     text-decoration: none; 
     color: inherit;         
     font-weight: normal;
+}
+
+#lien{
+    color: rgb(0, 0, 255);
 }
 
 .cite {
@@ -51,10 +67,6 @@ a{
     text-align: left;
     height: 10vh;
     align-content: center;
-}
-
-p{
-    margin-left: 10px;
 }
 
 .bd-placeholder-img {
