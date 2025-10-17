@@ -1,28 +1,28 @@
-h1{
+h1 {
     font-size: 100%;
 }
 
-#corps{
+#corps {
     background-color: black;
     background-image: url("image/dos\ carte\ yu-gi-oh.PNG");
     background-size: cover;
 }
 
-#présentation{
+#présentation {
     text-align: start;
 }
 
-p{
+p {
     text-align: justify;
 }
 
-span{
+span {
     float: right;
     color: white;
     margin-left: 10%;
 }
 
-img{
+img {
     height: 100%;
     width: 100%;
 }
@@ -35,14 +35,14 @@ img{
     text-align: center;
 }
 
-h4{
+h4 {
     margin-top: 5%;
 }
 
-a{
+a {
     cursor: crosshair;
-    text-decoration: none; 
-    color: inherit;         
+    text-decoration: none;
+    color: inherit;
     font-weight: normal;
 }
 
@@ -51,18 +51,18 @@ a{
     text-align: center;
 }
 
-.image{
+.image {
     width: auto;
     height: auto;
 }
 
-#image_titre{
+#image_titre {
     display: flex;
     margin-right: 50%;
     align-items: center;
 }
 
-#bas_de_page{
+#bas_de_page {
     color: white;
     background-color: black;
     background-size: cover;
