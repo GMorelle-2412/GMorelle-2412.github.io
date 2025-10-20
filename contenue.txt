@@ -1,0 +1,42 @@
+Présentation:
+
+    Qui: [créer par Kazuki Takahashi et éditer par Konami], [créer par Geoffrey MORELLE]    V$
+
+    Quoi: [pour monter des decks de yu gi oh masteur duel], [un jeu de cartes à collectionner]  V$
+ 
+    Où: [Japon], [France]  V$
+ 
+    Quand: [1999], [2002] V$
+  
+    Comment: ["lien des régles offitielle"], [présentation du deck, main deck, extra deck et vidéo de présentation] V$
+
+    Combien: 3 decks resencers    V
+  
+    Pourquoi: édais les pérsonnes à: conprendre les decks et apprendre a jouer avec c'est deck  V
+
+- (yu gi oh):
+
+    Yu gi oh est un jeu de cartes à collectionner, créé par Kazuki Takahashi et édité par Konami au Japon en 1999 puis en France en 2002.
+    Pour en savoir plus sur le jeu de cartes yu gi oh, voir règle officielle:
+
+- (site):
+
+    Créé par MORELLE Geoffrey, DDBMD ou Deck Database Yu-gi-oh Master Duel est un site qui répertorie plusieurs decks de yu gi oh, 
+    il a pour but d'aider les personnes à comprendre et apprendre à jouer avec plusieurs decks.
+    Chaque deck aura une présentation: du deck, de la main deck, de l'extra deck et une vidéo de présentation.
+
+-(autre):
+
+    Attention. Certaines cartes peuvent être interdites sur d'autres formats que le format Master duel ou avec une mise à jour de la banlist du format concerné.
+
+Comment jouer le deck poupée truquée:
+
+- Si on joue en premier ou en deuxième:
+
+    Le but du deck est de gagner en un tour, pour ce faire il faut faire un combo avec: "Poupée Truquée Petits Soldats", "Poupée Truquée Rouge", "Manoir des Épouvantables Marionnettes",
+    "Poupée Truquée Cri Bovin", "Poupée Truquée Fantasix Machinix", "Force Chaos d'Argent Magie-Rang-Plus", "Poupée Truquée Fanatix Machinix CXyz", "Numéro 40 : Poupée Truquée de Cordes",
+    "Numéro C40 : Poupée Truquée de Cordes des Ténèbres", "Numéro C15 : Poupée Truquée Chasseur de Géant", "Poupée Truquée Marionnette Chimère" et "Poupée Truquée Bébé de Terreur".
+
+    Il est possible de faire ce combo avec une carte de départ("Manoir des Épouvantables Marionnettes").
+
+    Les autres cartes du deck servent à accélérer la stratégie et de répondre aux interruptions de l'adversaire.
