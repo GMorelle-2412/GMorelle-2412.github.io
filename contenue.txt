@@ -29,6 +29,111 @@ Présentation:
 
     Attention. Certaines cartes peuvent être interdites sur d'autres formats que le format Master duel ou avec une mise à jour de la banlist du format concerné.
 
+Deck dragon blanc aux yeux bleu:
+
+Carte mentionner: 
+    - Dragon Esprit Ultime aux Yeux Bleus
+    - Baronne de Fleur
+    - Sifr Poussière d'Étoile Dragon Divin
+    - Dragon Blazar Cosmique
+    - Dragon blanc aux yeux bleus
+    - Demoiselle Blanche
+    - Dragon Esprit aux Yeux Bleus
+    - Dragon Tyran aux Yeux Bleus
+    - Dragon à Réaction aux Yeux Bleus
+    - Floraison de Cendres et Joyeux Printemps 
+    - Illusionniste d'Effet
+    - Cancrelat Maxx
+    - Infini Éphémère 
+    - Désignateur de la Suppression
+    - Appelé par la Tombe
+    - Purge Dominus
+    - Majesté des Dragons Blancs
+    - La Créature Ultime de Destruction
+    - Véritable Lumière
+    - Sentinelle de la Cloche de Feu 
+    - Maître avec des Yeux de Bleu
+    - Sage avec des Yeux de Bleu
+    - Hurlement des Dragons aux Yeux de Bleu
+    - Vœux pour les Yeux de Bleu
+    - Grondement Synchro
+    - Mausolée Blanc
+    - Filon Noble Primite
+    - Rayon de Forage Primite
+    - Rugissement Primite
+    - Dragon Cramoisi
+    - Néo Dragon Ultime aux Yeux Bleus
+    - Sceau Hiératique des Sphères Divines
+    - Trishula, Dragon de la Barrière de Glace
+
+
+Carte mentionner détailler :
+    - Dragon Esprit Ultime aux Yeux Bleus
+    - Baronne de Fleur
+    - Sifr Poussière d'Étoile Dragon Divin
+    - Dragon Blazar Cosmique
+    - Demoiselle Blanche
+    - Sentinelle de la Cloche de Feu 
+    - Maître avec des Yeux de Bleu
+    - Sage avec des Yeux de Bleu
+    - Illusionniste d'Effet
+    - Dragon Cramoisi
+    - Dragon Esprit aux Yeux Bleus
+    - Dragon blanc aux yeux bleus
+    - Dragon Tyran aux Yeux Bleus
+    - Dragon à Réaction aux Yeux Bleus
+    - Trishula, Dragon de la Barrière de Glace
+
+Carte mentionner non détailler :
+    - Purge Dominus
+    - Majesté des Dragons Blancs
+    - La Créature Ultime de Destruction
+    - Véritable Lumière
+    - Hurlement des Dragons aux Yeux de Bleu
+    - Vœux pour les Yeux de Bleu
+    - Grondement Synchro
+    - Mausolée Blanc
+    - Filon Noble Primite
+    - Rayon de Forage Primite
+    - Rugissement Primite
+
+
+Annexe détraille en plus :
+    - Invoquer monstre de niveau 1: "Sceau Hiératique des Sphères Divines" pour "Sentinelle de la Cloche de Feu"."Mausolée Blanc" pour une segonde invocation normal.
+    - Invoquer monstre de niveau 8: "Sceau Hiératique des Sphères Divines" pour "Dragon Blanc aux Yeux Bleus" et "Dragon à Réaction aux Yeux Bleus"
+    - annuler des effet depuis le cimetiére : "Néo Dragon Ultime aux Yeux Bleus" mis au cimetiére par Vœux pour les Yeux de Bleu et  a la déstruction 
+    de la carte équiper de "Néo Dragon Ultime aux Yeux Bleus"
+    - envoiller des carte aux cimetiére: "Mausolée Blanc" 
+
+
+texte:
+    - Comment jouer le deck Dragon blanc aux yeux bleus
+
+    - Si on joue en premier
+    L’objectif est de poser un terrain solide et de gêner l'adversaire dès le départ avec les cartes: "Dragon Esprit Ultime aux Yeux Bleus", "Baronne de Fleur", 
+    "Sifr Poussière d'Étoile Dragon Divin" et "Dragon Blazar Cosmique" car ils peuvent tous annuler l'effet d'une carte.
+
+    Pour ce faire il faut utiliser des cartes de niveau 8: "Dragon blanc aux yeux bleus", "Dragon à Réaction aux Yeux Bleus" et "Dragon Tyran aux Yeux Bleus". 
+    Puis des cartes Syntoniseur de niveau 1: "Demoiselle Blanche", "Sentinelle de la Cloche de Feu", "Maître avec des Yeux de Bleu", "Sage avec des Yeux de Bleu" et "Illusionniste d'Effet"
+    pour invoquer la cartes Synchros "Dragon Esprit aux Yeux Bleus" car il permet d'invoquer les autres cartes Synchros en s'aident de "Dragon Cramoisi".
+
+    - Si on joue en deuxième
+    L’objectif est d'invoquer le plus de monstre possible avec le plus d'attaque pour diminuer rapidement les points de vie de l'adverse avec les cartes: 
+    "Sifr Poussière d'Étoile Dragon Divin", "Dragon Blazar Cosmique", "Dragon blanc aux yeux bleus", "Dragon à Réaction aux Yeux Bleus", "Dragon Tyran aux Yeux Bleus" et 
+    "Trishula, Dragon de la Barrière de Glace"
+
+    - Annexe
+    Pour aider le deck, il y a des hands draps (des cartes pour gainer l'adversaire qui s'active depuis la main): "Floraison de Cendres et Joyeux Printemps", "Illusionniste d'Effet", 
+    "Cancrelat Maxx" et "Infini Éphémère". Puis des cartes qui contre les hands draps comme: "Désignateur de la Suppression", "Appelé par la Tombe".
+
+    
+
+    
+
+
+
+
+
 Comment jouer le deck poupée truquée:
 
 - Si on joue en premier ou en deuxième:
