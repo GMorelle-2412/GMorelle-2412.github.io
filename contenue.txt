@@ -85,8 +85,6 @@ Carte mentionner détailler :
     - Trishula, Dragon de la Barrière de Glace
     - Mausolée Blanc
     - Purge Dominus
-
-Carte mentionner non détailler :
     - Majesté des Dragons Blancs
     - La Créature Ultime de Destruction
     - Véritable Lumière
@@ -94,6 +92,8 @@ Carte mentionner non détailler :
     - Vœux pour les Yeux de Bleu
     - Grondement Synchro
     - Filon Noble Primite
+
+Carte mentionner non détailler :
     - Rayon de Forage Primite
     - Rugissement Primite
 
@@ -101,11 +101,40 @@ Carte mentionner non détailler :
 Annexe détraille en plus :
     - Invoquer monstres de niveau 1: "Sceau Hiératique des Sphères Divines" pour "Sentinelle de la Cloche de Feu"."Mausolée Blanc" pour une segonde invocation normal.
     - Invoquer monstres de niveau 8: "Sceau Hiératique des Sphères Divines" pour "Dragon Blanc aux Yeux Bleus" et "Dragon à Réaction aux Yeux Bleus"
+    - invoquer des monstres Normalement 1 Syntoniseur LUMIÈRE de Niveau 1: "Mausolée Blanc"
+    - invoquer "dragon blanc aux yeux bleu": "Maître avec des Yeux de Bleu" et "Véritable Lumière"
+    - invoquer un monstre "Yeux Bleus" depuis votre Deck, Cimetière ou bannissement: "Hurlement des Dragons aux Yeux de Bleu"
+    - Invoquez par Fusion: "Hurlement des Dragons aux Yeux de Bleu"
+    - invoquer un Syntoniseur dans le cimetière: "Grondement Synchro"
+    - invoquer un monstre normale de la main, Deck ou Cimetière: "Filon Noble Primite"
+    - invoquer Spécialement 1 Monstre Normal déclaré depuis votre Deck: "Rugissement Primite"
+
+
     - annuler des effet depuis le cimetiére : "Néo Dragon Ultime aux Yeux Bleus" mis au cimetiére par Vœux pour les Yeux de Bleu et  a la déstruction 
     de la carte équiper de "Néo Dragon Ultime aux Yeux Bleus"
-    - envoiller des monstres normal aux cimetiére: "Mausolée Blanc" 
-    - invoquer des monstres Normalement 1 Syntoniseur LUMIÈRE de Niveau 1: "Mausolée Blanc"
     - (hand trap) annuler effet qui ajoute une ou plusieurs cartes depuis le Deck à la main de l'adversaire: "Purge Dominus"
+    - annulez des effets: "Rayon de Forage Primite"
+    
+    - protéger la carte "Dragon Cramoisi": "Grondement Synchro"
+    - protége les monstre Monstres Normaux déclarés et monstres "Primite": "Rugissement Primite"
+    - protéger un monstre "Yeux Bleus": "La Créature Ultime de Destruction"
+    
+    - bannire des cartes: "Rayon de Forage Primite"
+    - bannissement de carte: "Rugissement Primite"
+
+    - ajouter a la main un monstre Syntoniseur LUMIÈRE de Niveau 1 dans votre Cimetière: "Maître avec des Yeux de Bleu"
+    - ajouter une carte "Primite" du deck à la main: "Filon Noble Primite"
+    - ajoutez 1 Syntoniseur LUMIÈRE de Niveau 1: "Vœux pour les Yeux de Bleu"
+
+    - détruire des cartes: "Majesté des Dragons Blancs"
+
+    - envoiller des monstres normal aux cimetiére: "Mausolée Blanc" 
+
+    - chercher une carte Magie/Piège depuis votre Deck, qui mentionne "Dragon Blanc aux Yeux Bleus": "Véritable Lumière" et "Vœux pour les Yeux de Bleu"
+    
+    - équiper 1 monstre "Yeux Bleus" depuis votre Extra Deck comme Magie d'Équipement: "Vœux pour les Yeux de Bleu"
+    
+    - obtenire plus de point d'attaque: Filon Noble Primite
 
 
 texte:
@@ -128,9 +157,15 @@ texte:
     Pour aider le deck, il y a des hands draps (des cartes pour gainer l'adversaire qui s'active depuis la main): "Floraison de Cendres et Joyeux Printemps", "Illusionniste d'Effet", 
     "Cancrelat Maxx" et "Infini Éphémère". Puis des cartes qui contre les hands draps comme: "Désignateur de la Suppression", "Appelé par la Tombe".
 
-    
+    Pour l'invocation de monstre de niveaux 1, on a: "Sceau Hiératique des Sphères Divines","Mausolée Blanc"
+    Pour l'invocation de monstre de niveaux 8,on a:"Sceau Hiératique des Sphères Divines", 
+    Pour l'invocation de "dragon blanc aux yeux bleu", on a: "Maître avec des Yeux de Bleu" et "Véritable Lumière"
+    Pour l'invocation de monstre "Yeux Bleus", on a: "Hurlement des Dragons aux Yeux de Bleu"
+    Pour l'invocation de monstre Syntoniseur, on a: "Grondement Synchro"
+    Pour l'Invoquez par Fusion, on a: "Hurlement des Dragons aux Yeux de Bleu"
+    Et pour l'invocation de monstre normale, on a: "Filon Noble Primite" et "Rugissement Primite"
 
-    
+# mettre des liens pour chaque carte mentionner !!!
 
 
 
