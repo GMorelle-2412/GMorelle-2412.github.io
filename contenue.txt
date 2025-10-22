@@ -83,27 +83,29 @@ Carte mentionner détailler :
     - Dragon Tyran aux Yeux Bleus
     - Dragon à Réaction aux Yeux Bleus
     - Trishula, Dragon de la Barrière de Glace
+    - Mausolée Blanc
+    - Purge Dominus
 
 Carte mentionner non détailler :
-    - Purge Dominus
     - Majesté des Dragons Blancs
     - La Créature Ultime de Destruction
     - Véritable Lumière
     - Hurlement des Dragons aux Yeux de Bleu
     - Vœux pour les Yeux de Bleu
     - Grondement Synchro
-    - Mausolée Blanc
     - Filon Noble Primite
     - Rayon de Forage Primite
     - Rugissement Primite
 
 
 Annexe détraille en plus :
-    - Invoquer monstre de niveau 1: "Sceau Hiératique des Sphères Divines" pour "Sentinelle de la Cloche de Feu"."Mausolée Blanc" pour une segonde invocation normal.
-    - Invoquer monstre de niveau 8: "Sceau Hiératique des Sphères Divines" pour "Dragon Blanc aux Yeux Bleus" et "Dragon à Réaction aux Yeux Bleus"
+    - Invoquer monstres de niveau 1: "Sceau Hiératique des Sphères Divines" pour "Sentinelle de la Cloche de Feu"."Mausolée Blanc" pour une segonde invocation normal.
+    - Invoquer monstres de niveau 8: "Sceau Hiératique des Sphères Divines" pour "Dragon Blanc aux Yeux Bleus" et "Dragon à Réaction aux Yeux Bleus"
     - annuler des effet depuis le cimetiére : "Néo Dragon Ultime aux Yeux Bleus" mis au cimetiére par Vœux pour les Yeux de Bleu et  a la déstruction 
     de la carte équiper de "Néo Dragon Ultime aux Yeux Bleus"
-    - envoiller des carte aux cimetiére: "Mausolée Blanc" 
+    - envoiller des monstres normal aux cimetiére: "Mausolée Blanc" 
+    - invoquer des monstres Normalement 1 Syntoniseur LUMIÈRE de Niveau 1: "Mausolée Blanc"
+    - (hand trap) annuler effet qui ajoute une ou plusieurs cartes depuis le Deck à la main de l'adversaire: "Purge Dominus"
 
 
 texte:
