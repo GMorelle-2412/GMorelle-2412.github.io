@@ -119,9 +119,6 @@ Annexe détraille en plus :
     - protége les monstre Monstres Normaux déclarés et monstres "Primite": "Rugissement Primite"
     - protéger un monstre "Yeux Bleus": "La Créature Ultime de Destruction"
     - protége les autres cartes de la déstruction par effet de carte: "Dragon à Réaction aux Yeux Bleus"
-    
-Pour protéger des cartes on a les cartes:
-    -
 
 
     - ajouter a la main un monstre Syntoniseur LUMIÈRE de Niveau 1 dans votre Cimetière: "Maître avec des Yeux de Bleu"
@@ -129,20 +126,21 @@ Pour protéger des cartes on a les cartes:
     - ajoutez 1 Syntoniseur LUMIÈRE de Niveau 1: "Vœux pour les Yeux de Bleu"
     - ajouter "Véritable Lumière" sur le terrain: "Demoiselle Blanche"
 
+
     - bannire des cartes: "Rayon de Forage Primite"
     - bannissement de carte: "Rugissement Primite"
 
+
+    - détruire des cartes: "Majesté des Dragons Blancs";
+    - envoiller des monstres normal aux cimetiére: "Mausolée Blanc" ;
+    - chercher une carte Magie/Piège depuis votre Deck, qui mentionne "Dragon Blanc aux Yeux Bleus": "Véritable Lumière" et "Vœux pour les Yeux de Bleu";
+    - équiper 1 monstre "Yeux Bleus" depuis votre Extra Deck comme Magie d'Équipement: "Vœux pour les Yeux de Bleu";
+    - obtenire plus de point d'attaque: Filon Noble Primite.
+    
+
+    
+
     - (hand trap) annuler effet qui ajoute une ou plusieurs cartes depuis le Deck à la main de l'adversaire: "Purge Dominus"
-
-    - détruire des cartes: "Majesté des Dragons Blancs"
-
-    - envoiller des monstres normal aux cimetiére: "Mausolée Blanc" 
-
-    - chercher une carte Magie/Piège depuis votre Deck, qui mentionne "Dragon Blanc aux Yeux Bleus": "Véritable Lumière" et "Vœux pour les Yeux de Bleu"
-    
-    - équiper 1 monstre "Yeux Bleus" depuis votre Extra Deck comme Magie d'Équipement: "Vœux pour les Yeux de Bleu"
-    
-    - obtenire plus de point d'attaque: Filon Noble Primite
 
 
 texte:
@@ -162,8 +160,18 @@ texte:
     "Trishula, Dragon de la Barrière de Glace"
 
     - Annexe
-    Pour aider le deck, il y a des hands draps (des cartes pour gainer l'adversaire qui s'active depuis la main): "Floraison de Cendres et Joyeux Printemps", "Illusionniste d'Effet", 
-    "Cancrelat Maxx" et "Infini Éphémère". Puis des cartes qui contre les hands draps comme: "Désignateur de la Suppression", "Appelé par la Tombe".
+    Pour aider le deck, il y a des hands draps (des cartes pour gainer l'adversaire qui s'active depuis la main): 
+        - "Floraison de Cendres et Joyeux Printemps" annule les effets: Ajouter une carte depuis le Deck à la main, 
+        invoquer Spécialement depuis le Deck ou envoyer une carte depuis le Deck au Cimetière;
+        - "Illusionniste d'Effet": annule les effets de carte monstre;
+        - "Cancrelat Maxx": Pioche une carte pour chaque carte invoquer Spécialement par l'adversaire;
+        - "Infini Éphémère": annule les effets d'un monstre ou si activer dans la zone magie/piége annule la tous les autres effets de Magie/Piège dans cette colonne et annulez ses effets
+        d'un monstre;
+        - "Purge Dominus": annule les effets qui ajoute une ou plusieurs cartes depuis le Deck à la main de l'adversaire.
+        
+    Puis des cartes qui contre les hands draps comme: 
+        - "Désignateur de la Suppression";
+        - "Appelé par la Tombe".
 
     Pour l'invocation de monstre de niveaux 1, on a les cartes: 
         - "Sceau Hiératique des Sphères Divines"; 
@@ -182,18 +190,37 @@ texte:
     Pour l'Invoquez par Fusion, on a la carte "Hurlement des Dragons aux Yeux de Bleu".
 
     Pour annuler des effets de carte on a les cartes:
-    - "Néo Dragon Ultime aux Yeux Bleus" (Depuis le cimetière);
-    - "Rayon de Forage Primite".
+        - "Néo Dragon Ultime aux Yeux Bleus" (Depuis le cimetière);
+        - "Rayon de Forage Primite".
+
+    Pour protéger des cartes on a les cartes:
+        - "Grondement Synchro" qui protéger la carte "Dragon Cramoisi"
+        - "Rugissement Primite" qui protége les Monstres Normaux déclarés et monstres "Primite"
+        - "La Créature Ultime de Destruction" qui protéger un monstre "Yeux Bleus"
+        - "Dragon à Réaction aux Yeux Bleus" qui protége les autres cartes de la déstruction par effet de carte
+
+    Pour ajouter des cartes a la main, on a les cartes:
+        - "Maître avec des Yeux de Bleu" pour ajouter a la main un monstre Syntoniseur LUMIÈRE de Niveau 1 dans le Cimetière;
+        - "Filon Noble Primite" pour ajouter une carte "Primite" du deck à la main;
+        - "Vœux pour les Yeux de Bleu" pour ajoutez 1 Syntoniseur LUMIÈRE de Niveau 1 depuis votre Deck;
+        - "Demoiselle Blanche" pour ajouter "Véritable Lumière" sur le terrain.
+
+    Pour bannire des carte on a les carte:
+        - "Rayon de Forage Primite";
+        - "Rugissement Primite".
+
+    Fonction divert:
+        - détruire des cartes: "Majesté des Dragons Blancs";
+        - envoiller des monstres normal aux cimetiére: "Mausolée Blanc" ;
+        - chercher une carte Magie/Piège depuis votre Deck, qui mentionne "Dragon Blanc aux Yeux Bleus": "Véritable Lumière" et "Vœux pour les Yeux de Bleu";
+        - équiper 1 monstre "Yeux Bleus" depuis votre Extra Deck comme Magie d'Équipement: "Vœux pour les Yeux de Bleu";
+        - obtenire plus de point d'attaque: Filon Noble Primite.
 
 
 
 
 
 
-
-
-
-# mettre des liens pour chaque carte mentionner !!!
 
 
 
