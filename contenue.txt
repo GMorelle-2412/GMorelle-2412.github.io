@@ -112,19 +112,27 @@ Annexe détraille en plus :
 
     - annuler des effet depuis le cimetiére : "Néo Dragon Ultime aux Yeux Bleus" mis au cimetiére par Vœux pour les Yeux de Bleu et  a la déstruction 
     de la carte équiper de "Néo Dragon Ultime aux Yeux Bleus"
-    - (hand trap) annuler effet qui ajoute une ou plusieurs cartes depuis le Deck à la main de l'adversaire: "Purge Dominus"
     - annulez des effets: "Rayon de Forage Primite"
     
+
     - protéger la carte "Dragon Cramoisi": "Grondement Synchro"
     - protége les monstre Monstres Normaux déclarés et monstres "Primite": "Rugissement Primite"
     - protéger un monstre "Yeux Bleus": "La Créature Ultime de Destruction"
+    - protége les autres cartes de la déstruction par effet de carte: "Dragon à Réaction aux Yeux Bleus"
     
-    - bannire des cartes: "Rayon de Forage Primite"
-    - bannissement de carte: "Rugissement Primite"
+Pour protéger des cartes on a les cartes:
+    -
+
 
     - ajouter a la main un monstre Syntoniseur LUMIÈRE de Niveau 1 dans votre Cimetière: "Maître avec des Yeux de Bleu"
     - ajouter une carte "Primite" du deck à la main: "Filon Noble Primite"
     - ajoutez 1 Syntoniseur LUMIÈRE de Niveau 1: "Vœux pour les Yeux de Bleu"
+    - ajouter "Véritable Lumière" sur le terrain: "Demoiselle Blanche"
+
+    - bannire des cartes: "Rayon de Forage Primite"
+    - bannissement de carte: "Rugissement Primite"
+
+    - (hand trap) annuler effet qui ajoute une ou plusieurs cartes depuis le Deck à la main de l'adversaire: "Purge Dominus"
 
     - détruire des cartes: "Majesté des Dragons Blancs"
 
@@ -157,13 +165,33 @@ texte:
     Pour aider le deck, il y a des hands draps (des cartes pour gainer l'adversaire qui s'active depuis la main): "Floraison de Cendres et Joyeux Printemps", "Illusionniste d'Effet", 
     "Cancrelat Maxx" et "Infini Éphémère". Puis des cartes qui contre les hands draps comme: "Désignateur de la Suppression", "Appelé par la Tombe".
 
-    Pour l'invocation de monstre de niveaux 1, on a: "Sceau Hiératique des Sphères Divines","Mausolée Blanc"
-    Pour l'invocation de monstre de niveaux 8,on a:"Sceau Hiératique des Sphères Divines", 
-    Pour l'invocation de "dragon blanc aux yeux bleu", on a: "Maître avec des Yeux de Bleu" et "Véritable Lumière"
-    Pour l'invocation de monstre "Yeux Bleus", on a: "Hurlement des Dragons aux Yeux de Bleu"
-    Pour l'invocation de monstre Syntoniseur, on a: "Grondement Synchro"
-    Pour l'Invoquez par Fusion, on a: "Hurlement des Dragons aux Yeux de Bleu"
-    Et pour l'invocation de monstre normale, on a: "Filon Noble Primite" et "Rugissement Primite"
+    Pour l'invocation de monstre de niveaux 1, on a les cartes: 
+        - "Sceau Hiératique des Sphères Divines"; 
+        - "Mausolée Blanc";
+        - "Grondement Synchro";
+        - "Filon Noble Primite" et "Rugissement Primite" pour la carte "Sentinelle de la Cloche de Feu".
+        - "Demoiselle Blanche" si "dragon blanc aux yeux bleu" est invoquer sur le terrain ou Lorsqu'une carte ou un effet qui cible cette carte sur le Terrain est activé, 
+        ou lorsque cette carte est ciblée par une attaque
+
+    Pour l'invocation de monstre de niveaux 8, on a les cartes:
+        - "Sceau Hiératique des Sphères Divines";
+        - "Maître avec des Yeux de Bleu" et "Véritable Lumière" pour le monstre "dragon blanc aux yeux bleu";
+        - "Hurlement des Dragons aux Yeux de Bleu" pour les monstre "Yeux Bleus";
+        - "Filon Noble Primite" et "Rugissement Primite" pour le monstre "dragon blanc aux yeux bleu".
+
+    Pour l'Invoquez par Fusion, on a la carte "Hurlement des Dragons aux Yeux de Bleu".
+
+    Pour annuler des effets de carte on a les cartes:
+    - "Néo Dragon Ultime aux Yeux Bleus" (Depuis le cimetière);
+    - "Rayon de Forage Primite".
+
+
+
+
+
+
+
+
 
 # mettre des liens pour chaque carte mentionner !!!
 
