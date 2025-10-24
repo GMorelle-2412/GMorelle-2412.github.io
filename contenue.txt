@@ -218,15 +218,58 @@ texte:
 
 
 
-
-
-
-
-
-
-
-
 Comment jouer le deck poupée truquée:
+    - "Floraison de Cendres et Joyeux Printemps" annule les effets: Ajouter une carte depuis le Deck à la main, 
+        invoquer Spécialement depuis le Deck ou envoyer une carte depuis le Deck au Cimetière;
+    - "Cancrelat Maxx": Pioche une carte pour chaque carte invoquer Spécialement par l'adversaire;
+    - "Explorateur Planétaire": ajoutez 1 Magie de Terrain depuis votre Deck à votre main;
+    - "Poupée Truquée aux Bras Ciseaux": envoyer 1 monstre "Poupée Truquée" depuis votre Deck au Cimetière;
+    - "Poupée Truquée Bébé de Terreur": invoquer Spécialement 1 monstre "Poupée Truquée" et protége contre les effets de l'adversaire en réponse à 
+        l'activation des effets de votre monstre "Poupée Truquée";
+    - "Poupée Truquée Petits Soldats": envoyer 1 monstre "Poupée Truquée" de Niveau différent de cette carte depuis votre Deck au Cimetière, modivier sont niveau 
+        et augmenter le niveau de deux monstre "Poupée Truquée" de 4;
+    - "Poupée Truquée Chevalier Monstrueux":  cibler 1 monstre "Poupée Truquée" dans votre Cimetière ou 1 monstre dans le Cimetière de votre adversaire ; 
+        Invoquez-le Spécialement sur le Terrain de son propriétaire, puis invoquer cette carte et si ette carte est envoyée au Cimetière, sauf depuis la main : vous pouvez l'ajouter à votre main;
+    - "Gadarla, Kaiju de la Poussière Mystérieuse": sacrifier un monstre de l'adversaire pour invoqsuer Spécialement cette carte;
+    - "Poupée Truquée Bisque":  Invoquer Spécialement cette carte (depuis votre main) en défaussant 1 monstre "Poupée Truquée" et bannir cette carte depuis votre Cimetière puis ce tour, 
+        votre adversaire ne peut pas cibler de monstres "Poupée Truquée" que vous contrôlez avec des effets de carte;
+    - "Poupée Truquée Rouge": Invoquez Spécialement cette carte ainsi qu'1 monstre "Poupée Truquée" du même Niveau que le Rang d'un monstre révélé depuis votre Deck et 
+        Si cette carte est envoyée au Cimetière, sauf depuis la main : vous pouvez l'ajouter à votre main;
+    - "Poupée Truquée Cri Bovin": s'invoque spécialement depuis la main ou Cimetière en détacher 1 Matériel d'un Monstre Xyz que vous contrôlez et si Un Monstre Xyz "Poupée Truquée" qui a cette 
+        carte comme Matériel alors Une fois par tour : vous pouvez cibler 1 monstre dans le Cimetière de votre adversaire ; Invoquez-le Spécialement sur le Terrain de votre adversaire;
+    - "Sacrifice Inutile": Envoyez 1 monstre depuis votre Deck au Cimetière;
+    - "Force de Numeron Magie-Rang-Plus": invoquez Spécialement 1 monstre "Numéro C" du même Type que le monstre que vous contrôlez mais avec 1 Rang de plus depuis votre Extra Deck et 
+        s'il y a des cartes face recto sur le Terrain (cette carte et le monstre Invoqué par celle-ci exclus), annulez les effets de ces autres cartes.
+    - "Force Chaos d'Argent Magie-Rang-Plus": invoquez Spécialement 1 monstre "Numéro C" ou "CXyz" du même Type que le monstre que vous contrôlez mais avec 1 Rang de plus 
+        depuis votre Extra Deck et Lorsqu'un ou plusieurs Monstres Xyz de min. Rang 5 sont Invoqués Spécialement sur votre Terrain, tant que cette carte est dans votre 
+        Cimetière (sauf durant la Damage Step) : vous pouvez ajouter cette carte à votre main.
+    - "Poupée de Condoléance": Envoyez du Deck au Cimetière un nombre de monstres "Poupée Truquée" de noms différents inférieur ou égal au nombre de monstres contrôlés 
+        par votre adversaire qui ont été Invoqués Spécialement depuis l'Extra Deck +1 et pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Monstre Xyz 
+        Machine que vous contrôlez ; il ne peut pas être détruit par des effets de carte de votre adversaire tant qu'il est face recto sur le Terrain;
+    - "Talent des Triples Tactiques":
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - Si on joue en premier ou en deuxième:
 
