@@ -246,8 +246,32 @@ Comment jouer le deck poupée truquée:
     - "Poupée de Condoléance": Envoyez du Deck au Cimetière un nombre de monstres "Poupée Truquée" de noms différents inférieur ou égal au nombre de monstres contrôlés 
         par votre adversaire qui ont été Invoqués Spécialement depuis l'Extra Deck +1 et pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Monstre Xyz 
         Machine que vous contrôlez ; il ne peut pas être détruit par des effets de carte de votre adversaire tant qu'il est face recto sur le Terrain;
-    - "Talent des Triples Tactiques":
-
+    - "Talent des Triples Tactiques": Si votre adversaire a activé un effet de monstre durant votre Main Phase ce tour : activez 1 de ces effets, Piochez 2 cartes, 
+        Jusqu'à la End Phase, prenez le contrôle d'1 monstre contrôlé par votre adversaire, Regardez la main de votre adversaire, et choisissez-en 1 carte à mélanger dans le Deck.
+    - "Poussée des Triples Tactiques": Si votre adversaire a activé un effet de monstre durant ce tour : Posez 1 Magie Normale/Piège Normal ("Poussée des Triples Tactiques" exclu) 
+        depuis votre Deck, ou si votre adversaire contrôle un monstre, vous pouvez l'ajouter à votre main à la place. Ce tour, la carte Posée ne peut pas être activée.
+    - "Manoir des Épouvantables Marionnettes": ajouter 1 monstre "Poupée Truquée" depuis votre Deck à votre main, Les monstres "Poupée Truquée" que vous contrôlez ne peuvent pas 
+        être détruits au combat, et ils ne sont pas affectés par les effets activés des monstres de votre adversaire (ses Monstres Xyz exclus) et Une fois par tour : vous pouvez 
+        détacher 1 Matériel d'un Monstre Xyz que vous contrôlez, puis ciblez 1 monstre "Poupée Truquée" dans votre Cimetière ; Invoquez-le Spécialement sur le Terrain de votre 
+        adversaire en Position de Défense;
+    - "Appelé par la Tombe": carte qui contre les hands draps;
+    - "À Forces Égales": vous pouvez faire bannir face verso à votre adversaire des cartes depuis son Terrain jusqu'à ce qu'il contrôle le même nombre de cartes que vous.
+    - "Pièce de Service des Poupées": prendre le controle d'une carte de l'adversaire et  Si cette carte est dans votre Cimetière, sauf le tour où elle y a été envoyée, et 
+        que vous contrôlez un Monstre Xyz "Poupée Truquée" : vous pouvez bannir cette carte, puis ciblez 1 Monstre Xyz dans l'un des Cimetières ; Invoquez-le Spécialement 
+        sur l'un des Terrains en Position de Défense.
+    - "Poupée Truquée Gigantes": gagner le controle d'un monstre de l'adversaire et Sacrifier cette carte ; jusqu'à la fin de ce tour, tous les monstres que vous contrôlez 
+        actuellement deviennent de Niveau 8.
+    - "Numéro 15 : Poupée Truquée Broyeur Géant": ciblez 1 monstre Invoqué Spécialement contrôlé par votre adversaire ; détruisez-le, puis si c'était un Monstre Xyz, 
+        infligez des dommages à votre adversaire égaux à son ATK d'origine.
+    - "Numéro 40 : Poupée Truquée de Cordes":  placez 1 Compteur Corde sur chaque monstre face recto sur le Terrain (cette carte exclue) et  Une fois par tour, durant 
+        la prochaine End Phase de l'adversaire du joueur qui a placé un ou plusieurs Compteurs Corde par cet effet : détruisez les monstres avec des Compteurs Corde, 
+        et si vous le faites, infligez 500 points de dommages à votre adversaire pour chaque monstre détruit.
+    - "Numéro 88 : Poupée Truquée de Lion": placez 1 Compteur Destinée sur cette carte. Vous ne pouvez pas mener votre Battle Phase le tour où vous activez cet effet. 
+        Lorsque 3 Compteurs Destinée sont sur cette carte, vous gagnez le Duel.
+    - "Poupée Truquée Fantasix Machinix": ajoutez 1 Magie "Magie-Rang-Plus" depuis votre Deck à votre main, Invoquer Normalement 1 monstre Machine durant votre Main Phase 
+        ce tour, en plus de votre Invocation/Pose Normale.  Si vous Invoquez Spécialement un ou plusieurs Monstres Xyz "Poupée Truquée" (sauf durant la Damage Step) : vous 
+        pouvez Invoquer Spécialement cette carte depuis votre Cimetière sur l'un des Terrains en Position de Défense, puis vous pouvez ajouter 1 Magie "Magie-Rang-Plus" depuis 
+        votre Cimetière à votre main.
 
 
 
