@@ -22,10 +22,6 @@ span {
     margin-left: 10%;
 }
 
-img {
-    height: 100%;
-    width: 100%;
-}
 
 #body {
     background-image: url("image/font bleu.PNG");
@@ -51,9 +47,14 @@ a {
     text-align: center;
 }
 
+#img_deck{
+    height: 100%;
+    width: 100%;
+}
+
 .image {
-    width: auto;
-    height: auto;
+    height: 100%;
+    width: 100%;
 }
 
 #image_titre {

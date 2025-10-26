@@ -1,33 +1,45 @@
-#deck {
+#color {
     background-color: rgb(0, 1, 20);
     color: white;
-    margin-bottom: -5%;
 }
 
+
+#deck {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: -5%;
+    width: 75%;
+    height: 100%;
+    margin: 0 auto;
+}
 
 .agustement {
     margin-top: 5%;
 }
 
-img {
-    width: 9%;
-    height: 9%;
-}
-
+#text_deck,
 #extra_deck,
 #main_deck {
     display: flex;
-    flex-direction: column;
-    width: 75%;
-    margin: 0 auto;
-    height: 100;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.CardImage-box {
+    flex: 1 1 100px;
+    max-width: 100px;
+}
+
+@media (max-width: 600px) {
+  .CardImage-box {
+    max-width: 55px;
+  }
 }
 
 #video-container {
-    margin-top: 5%;
-    margin-bottom: 5%;
     display: flex;
     justify-content: center;
     align-items: center;
-
+    margin-top: 5%;
 }
