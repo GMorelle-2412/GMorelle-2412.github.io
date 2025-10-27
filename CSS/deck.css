@@ -27,13 +27,43 @@
 }
 
 .CardImage-box {
-    flex: 1 1 100px;
-    max-width: 100px;
+    flex: 1 1 auto;
+    max-width: 10%;
+}
+
+@media (max-width: 790px) {
+  .CardImage-box {
+    max-width: 85px;
+  }
 }
 
 @media (max-width: 600px) {
   .CardImage-box {
-    max-width: 50px;
+    max-width: 80px;
+  }
+}
+
+@media (max-width: 532px) {
+  .CardImage-box {
+    max-width: 67px;
+  }
+}
+
+@media (max-width: 456px) {
+  .CardImage-box {
+    max-width: 60px;
+  }
+}
+
+@media (max-width: 438px) {
+  .CardImage-box {
+    max-width: 55px;
+  }
+}
+
+@media (max-width: 380px) {
+  .CardImage-box {
+    max-width: 48px;
   }
 }
 
