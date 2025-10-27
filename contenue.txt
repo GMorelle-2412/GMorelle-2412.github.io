@@ -218,28 +218,31 @@ texte:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Comment jouer le deck poupée truquée:
-    - "Poupée Truquée aux Bras Ciseaux": envoyer 1 monstre "Poupée Truquée" depuis votre Deck au Cimetière;
-    - "Poupée Truquée Bébé de Terreur": invoquer Spécialement 1 monstre "Poupée Truquée" et protége contre les effets de l'adversaire en réponse à 
-        l'activation des effets de votre monstre "Poupée Truquée";
-    - "Poupée Truquée Petits Soldats": envoyer 1 monstre "Poupée Truquée" de Niveau différent de cette carte depuis votre Deck au Cimetière, modivier sont niveau 
-        et augmenter le niveau de deux monstre "Poupée Truquée" de 4;
+   
     - "Gadarla, Kaiju de la Poussière Mystérieuse": sacrifier un monstre de l'adversaire pour invoqsuer Spécialement cette carte;
-    - "Poupée Truquée Bisque":  Invoquer Spécialement cette carte (depuis votre main) en défaussant 1 monstre "Poupée Truquée" et bannir cette carte depuis votre Cimetière puis ce tour, 
-        votre adversaire ne peut pas cibler de monstres "Poupée Truquée" que vous contrôlez avec des effets de carte;
-    - "Poupée Truquée Cri Bovin": s'invoque spécialement depuis la main ou Cimetière en détacher 1 Matériel d'un Monstre Xyz que vous contrôlez et si Un Monstre Xyz "Poupée Truquée" qui a cette 
-        carte comme Matériel alors Une fois par tour : vous pouvez cibler 1 monstre dans le Cimetière de votre adversaire ; Invoquez-le Spécialement sur le Terrain de votre adversaire;
-    - "Sacrifice Inutile": Envoyez 1 monstre depuis votre Deck au Cimetière;
-    - "Force de Numeron Magie-Rang-Plus": invoquez Spécialement 1 monstre "Numéro C" du même Type que le monstre que vous contrôlez mais avec 1 Rang de plus depuis votre Extra Deck et 
-        s'il y a des cartes face recto sur le Terrain (cette carte et le monstre Invoqué par celle-ci exclus), annulez les effets de ces autres cartes.
-    - "Poupée de Condoléance": Envoyez du Deck au Cimetière un nombre de monstres "Poupée Truquée" de noms différents inférieur ou égal au nombre de monstres contrôlés 
-        par votre adversaire qui ont été Invoqués Spécialement depuis l'Extra Deck +1 et pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Monstre Xyz 
-        Machine que vous contrôlez ; il ne peut pas être détruit par des effets de carte de votre adversaire tant qu'il est face recto sur le Terrain;
+    
+    
     - "Appelé par la Tombe": carte qui contre les hands draps;
     - "À Forces Égales": vous pouvez faire bannir face verso à votre adversaire des cartes depuis son Terrain jusqu'à ce qu'il contrôle le même nombre de cartes que vous.
-    - "Pièce de Service des Poupées": prendre le controle d'une carte de l'adversaire et  Si cette carte est dans votre Cimetière, sauf le tour où elle y a été envoyée, et 
-        que vous contrôlez un Monstre Xyz "Poupée Truquée" : vous pouvez bannir cette carte, puis ciblez 1 Monstre Xyz dans l'un des Cimetières ; Invoquez-le Spécialement 
-        sur l'un des Terrains en Position de Défense.
     - "Poupée Truquée Gigantes": gagner le controle d'un monstre de l'adversaire et Sacrifier cette carte ; jusqu'à la fin de ce tour, tous les monstres que vous contrôlez 
         actuellement deviennent de Niveau 8.
     - "Numéro 15 : Poupée Truquée Broyeur Géant": ciblez 1 monstre Invoqué Spécialement contrôlé par votre adversaire ; détruisez-le, puis si c'était un Monstre Xyz, 
@@ -251,20 +254,12 @@ Comment jouer le deck poupée truquée:
         Lorsque 3 Compteurs Destinée sont sur cette carte, vous gagnez le Duel.
     - "Numéro C15 : Poupée Truquée Chasseur de Géant": ciblez 1 carte contrôlée par votre adversaire ; détruisez-la, puis, si c'était un monstre, infligez des dommages à votre 
         adversaire égaux à son ATK d'origine.
-    - "Numéro C40 : Poupée Truquée de Cordes des Ténèbres": détruisez autant de monstres avec des Compteurs Corde que possible, et si vous le faites, piochez 1 carte, puis infligez 
-        des dommages à votre adversaire égaux à la plus haute ATK d'origine parmi ces monstres détruits dans le Cimetière (en cas d'égalité, vous choisissez) et Une fois par tour : 
-        placez 1 Compteur Corde sur chaque monstre face recto contrôlé par votre adversaire.
+    
     - "Numéro C88 : Poupée Truquée de Lion du Désastre": Aucun joueur ne peut cibler cette carte sur le Terrain avec des effets de carte. et Une fois par tour : vous pouvez détacher 
         1 Matériel de cette carte ; infligez 1000 points de dommages à votre adversaire. Durant votre End Phase, si votre adversaire a max. 2000 LP et que cette carte n'a pas de Matériel, 
         vous gagnez le Duel.
-    - "Arsenal Divin AA-ZEUS - Tonnerre du Ciel": si un Monstre Xyz a combattu ce tour, vous pouvez aussi Invoquer par Xyz "Arsenal Divin AA-ZEUS - Tonnerre du Ciel" en utilisant 1 
-        Monstre Xyz que vous contrôlez comme Matériel, vous pouvez détacher 2 Matériels de cette carte ; envoyez toutes les autres cartes depuis le Terrain au Cimetière et 
-        Une fois par tour, si une ou plusieurs autres cartes que vous contrôlez sont détruites au combat ou par un effet de carte de l'adversaire : vous pouvez attacher 1 carte depuis votre main, 
-        Deck ou Extra Deck à cette carte comme Matériel.
-    - "Super Tueur des Étoiles TY-PHON - Crise Céleste": voquer par Xyz cette carte en utilisant 1 monstre que vous contrôlez avec la plus haute ATK, aucun joueur ne peut activer les 
-        effets des monstres avec min. 3000 ATK et Une fois par tour : vous pouvez détacher 1 Matériel de cette carte ; renvoyez 1 monstre depuis le Terrain à la main.
     
-
+    
 
 carte mentionner :
 - "Floraison de Cendres et Joyeux Printemps"
@@ -294,19 +289,119 @@ carte mentionner :
         (sauf durant la Damage Step) : vous pouvez en cibler 1 ; détruisez-le, et si vous le faites, infligez des dommages à votre adversaire égaux à la moitié de son ATK d'origine. 
 - "Poupée Truquée Marionnette Chimère": prenez 1 monstre "Poupée Truquée" depuis votre Deck, et soit ajoutez-le à votre main soit envoyez-le au Cimetière, puis, si tous les monstres 
         que vous contrôlez sont des monstres "Poupée Truquée" (min. 1), vous pouvez Invoquer Spécialement 1 monstre "Poupée Truquée" depuis votre main. 
+- "Poupée Truquée Bébé de Terreur": invoquer Spécialement 1 monstre "Poupée Truquée" et protége contre les effets de l'adversaire en réponse à 
+        l'activation des effets de votre monstre "Poupée Truquée";
+- "Poupée Truquée Bisque":  Invoquer Spécialement cette carte (depuis votre main) en défaussant 1 monstre "Poupée Truquée" et bannir cette carte depuis votre Cimetière puis ce tour, 
+        votre adversaire ne peut pas cibler de monstres "Poupée Truquée" que vous contrôlez avec des effets de carte;
+    - "Poupée Truquée Cri Bovin": s'invoque spécialement depuis la main ou Cimetière en détacher 1 Matériel d'un Monstre Xyz que vous contrôlez et si Un Monstre Xyz "Poupée Truquée" qui a cette 
+        carte comme Matériel alors Une fois par tour : vous pouvez cibler 1 monstre dans le Cimetière de votre adversaire ; Invoquez-le Spécialement sur le Terrain de votre adversaire;
+ - "Force de Numeron Magie-Rang-Plus": invoquez Spécialement 1 monstre "Numéro C" du même Type que le monstre que vous contrôlez mais avec 1 Rang de plus depuis votre Extra Deck et 
+        s'il y a des cartes face recto sur le Terrain (cette carte et le monstre Invoqué par celle-ci exclus), annulez les effets de ces autres cartes.
+- "Pièce de Service des Poupées": prendre le controle d'une carte de l'adversaire et  Si cette carte est dans votre Cimetière, sauf le tour où elle y a été envoyée, et 
+        que vous contrôlez un Monstre Xyz "Poupée Truquée" : vous pouvez bannir cette carte, puis ciblez 1 Monstre Xyz dans l'un des Cimetières ; Invoquez-le Spécialement 
+        sur l'un des Terrains en Position de Défense.
+- "Arsenal Divin AA-ZEUS - Tonnerre du Ciel": si un Monstre Xyz a combattu ce tour, vous pouvez aussi Invoquer par Xyz "Arsenal Divin AA-ZEUS - Tonnerre du Ciel" en utilisant 1 
+        Monstre Xyz que vous contrôlez comme Matériel, vous pouvez détacher 2 Matériels de cette carte ; envoyez toutes les autres cartes depuis le Terrain au Cimetière et 
+        Une fois par tour, si une ou plusieurs autres cartes que vous contrôlez sont détruites au combat ou par un effet de carte de l'adversaire : vous pouvez attacher 1 carte depuis votre main, 
+        Deck ou Extra Deck à cette carte comme Matériel.
+- "Poupée Truquée aux Bras Ciseaux": envoyer 1 monstre "Poupée Truquée" depuis votre Deck au Cimetière;
+- "Poupée Truquée Petits Soldats": envoyer 1 monstre "Poupée Truquée" de Niveau différent de cette carte depuis votre Deck au Cimetière, modivier sont niveau 
+        et augmenter le niveau de deux monstre "Poupée Truquée" de 4;
+- "Sacrifice Inutile": Envoyez 1 monstre depuis votre Deck au Cimetière;
+- "Poupée de Condoléance": Envoyez du Deck au Cimetière un nombre de monstres "Poupée Truquée" de noms différents inférieur ou égal au nombre de monstres contrôlés 
+        par votre adversaire qui ont été Invoqués Spécialement depuis l'Extra Deck +1 et pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Monstre Xyz 
+        Machine que vous contrôlez ; il ne peut pas être détruit par des effets de carte de votre adversaire tant qu'il est face recto sur le Terrain;
+- "Numéro C40 : Poupée Truquée de Cordes des Ténèbres": détruisez autant de monstres avec des Compteurs Corde que possible, et si vous le faites, piochez 1 carte, puis infligez 
+        des dommages à votre adversaire égaux à la plus haute ATK d'origine parmi ces monstres détruits dans le Cimetière (en cas d'égalité, vous choisissez) et Une fois par tour : 
+        placez 1 Compteur Corde sur chaque monstre face recto contrôlé par votre adversaire.
+- "Super Tueur des Étoiles TY-PHON - Crise Céleste": invoquer par Xyz cette carte en utilisant 1 monstre que vous contrôlez avec la plus haute ATK, aucun joueur ne peut activer les 
+        effets des monstres avec min. 3000 ATK et Une fois par tour : vous pouvez détacher 1 Matériel de cette carte ; renvoyez 1 monstre depuis le Terrain à la main.
+
+
+
+
+
+
+
+
+
+
+
+
+envoyer au cimerière:
+- "Poupée Truquée Marionnette Chimère": prenez 1 monstre "Poupée Truquée" depuis votre Deck, et soit ajoutez-le à votre main soit envoyez-le au Cimetière;
+
+- "Arsenal Divin AA-ZEUS - Tonnerre du Ciel": envoyez toutes les autres cartes depuis le Terrain au Cimetière 
+
+- "Poupée Truquée aux Bras Ciseaux": envoyer 1 monstre "Poupée Truquée" depuis votre Deck au Cimetière;
+
+- "Poupée Truquée Petits Soldats": envoyer 1 monstre "Poupée Truquée" de Niveau différent de cette carte depuis votre Deck au Cimetière, modifier sont niveau 
+        et augmenter le niveau de deux monstre "Poupée Truquée" de 4;
+
+- "Sacrifice Inutile": Envoyez 1 monstre depuis votre Deck au Cimetière;
+
+- "Poupée de Condoléance": Envoyez du Deck au Cimetière un nombre de monstres "Poupée Truquée" de noms différents inférieur ou égal au nombre de monstres contrôlés 
+        par votre adversaire qui ont été Invoqués Spécialement depuis l'Extra Deck +1 
 
 
 ajouter:
 - "Explorateur Planétaire": ajoutez 1 Magie de Terrain du Deck à votre main;
+
 - "Poupée Truquée Rouge": Si cette carte est envoyée au Cimetière, (sauf depuis la main): ajouter cette carte à votre main;
-- "Force Chaos d'Argent Magie-Rang-Plus": ajouter cette carte à votre main si un ou plusieurs Monstres Xyz de min. Rang 5 sont Invoqués Spécialement sur votre Terrain, 
-(si cette carte est dans votre Cimetière (sauf durant la Damage Step));
-- "Poupée Truquée Chevalier Monstrueux": ajouter à votre main, si cette carte est envoyée au Cimetière(sauf depuis la main);
+
+- "Force Chaos d'Argent Magie-Rang-Plus": ajouter cette carte à votre main si un ou plusieurs Monstres Xyz de min Rang 5 sont Invoqués Spécialement sur votre Terrain, 
+    (si cette carte est dans votre Cimetière (sauf durant la Damage Step));
+
+- "Poupée Truquée Chevalier Monstrueux": ajouter à votre main cette carte, si cette carte est envoyée au Cimetière(sauf depuis la main);
+
 - "Manoir des Épouvantables Marionnettes": ajouter 1 monstre "Poupée Truquée" depuis votre Deck à votre main;
+
 - "Poupée Truquée Fantasix Machinix": ajoutez 1 Magie "Magie-Rang-Plus" depuis votre Deck à votre main, Si vous Invoquez Spécialement un ou plusieurs Monstres Xyz "Poupée Truquée" 
     (sauf durant la Damage Step) vous pouvez ajouter 1 Magie "Magie-Rang-Plus" depuis votre Cimetière à votre main;
+
 - "Poupée Truquée Fanatix Machinix CXyz": Si cette carte est Invoquée Spécialement : vous pouvez ajouter 1 Piège "Poupée" depuis votre Deck à votre main;
-- "Poupée Truquée Marionnette Chimère":  ajoutez 1 monstre "Poupée Truquée" depuis votre Deck;
+
+- "Poupée Truquée Marionnette Chimère":  ajoutez 1 monstre "Poupée Truquée" depuis votre Deck.
+
+
+Invoquer:
+- "Poupée Truquée Rouge": Invoquez Spécialement cette carte ainsi qu'1 monstre "Poupée Truquée" du même Niveau que le Rang d'un monstre révélé depuis votre Deck.
+
+- "Force Chaos d'Argent Magie-Rang-Plus": invoquez Spécialement 1 monstre "Numéro C" ou "CXyz" du même Type que le monstre que vous contrôlez mais avec 1 Rang de plus 
+    depuis votre Extra Deck;
+
+- "Poupée Truquée Chevalier Monstrueux":  cibler 1 monstre "Poupée Truquée" dans votre Cimetière ou 1 monstre dans le Cimetière de votre adversaire ; 
+    Invoquez-le Spécialement sur le Terrain de son propriétaire, puis invoquer cette carte;
+
+- "Manoir des Épouvantables Marionnettes": détacher 1 Matériel d'un Monstre Xyz que vous contrôlez, puis ciblez 1 monstre "Poupée Truquée" dans votre Cimetière ; Invoquez-le Spécialement sur 
+    le Terrain de votre adversaire en Position de Défense;
+
+- "Poupée Truquée Fantasix Machinix": Invoquer Normalement 1 monstre Machine durant votre Main Phase en plus ce tour et Si vous Invoquez Spécialement un ou plusieurs Monstres Xyz 
+    "Poupée Truquée" (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre Cimetière sur l'un des Terrains en Position de Défense;
+
+- "Poupée Truquée Fanatix Machinix CXyz": Invoquez Spécialement 1 monstre depuis l'un des Cimetières sur le Terrain de votre adversaire en Position de Défense.
+
+- "Poupée Truquée Marionnette Chimère": prenez 1 monstre "Poupée Truquée" depuis votre Deck, et soit ajoutez-le à votre main soit envoyez-le au Cimetière, puis, si tous les monstres 
+        que vous contrôlez sont des monstres "Poupée Truquée" (min. 1), vous pouvez Invoquer Spécialement 1 monstre "Poupée Truquée" depuis votre main;
+
+- "Poupée Truquée Bébé de Terreur": invoquer Spécialement 1 monstre "Poupée Truquée" depuis le cimetière;
+
+- "Poupée Truquée Bisque":  Invoquer Spécialement cette carte (depuis votre main) en défaussant 1 monstre "Poupée Truquée";
+
+- "Poupée Truquée Cri Bovin": s'invoque spécialement depuis la main ou Cimetière en détacher 1 Matériel d'un Monstre Xyz que vous contrôlez et si Un Monstre Xyz "Poupée Truquée" qui a cette 
+    carte comme Matériel alors Une fois par tour : vous pouvez cibler 1 monstre dans le Cimetière de votre adversaire ; Invoquez-le Spécialement sur le Terrain de votre adversaire;
+
+- "Force de Numeron Magie-Rang-Plus": invoquez Spécialement 1 monstre "Numéro C" du même Type que le monstre que vous contrôlez mais avec 1 Rang de plus depuis votre Extra Deck;
+
+- "Pièce de Service des Poupées": Si cette carte est dans votre Cimetière, sauf le tour où elle y a été envoyée, et que vous contrôlez un Monstre Xyz "Poupée Truquée" : vous pouvez 
+    bannir cette carte, puis ciblez 1 Monstre Xyz dans l'un des Cimetières ; Invoquez-le Spécialement sur l'un des Terrains en Position de Défense;
+
+- "Arsenal Divin AA-ZEUS - Tonnerre du Ciel": si un Monstre Xyz a combattu ce tour, vous pouvez aussi Invoquer par Xyz "Arsenal Divin AA-ZEUS - Tonnerre du Ciel" en utilisant 1 
+        Monstre Xyz que vous contrôlez comme Matériel.
+
+- "Super Tueur des Étoiles TY-PHON - Crise Céleste": invoquer par Xyz cette carte en utilisant 1 monstre que vous contrôlez avec la plus haute ATK
+
+
 
 
 
@@ -329,6 +424,21 @@ Pour aider le deck, il y a des hands draps (des cartes pour gainer l'adversaire 
 
     - "Poussée des Triples Tactiques" Si votre adversaire a activé un effet de monstre durant ce tour : 
         Posez 1 Magie Normale/Piège Normal (la carte Posée ne peut pas être activée) depuis votre Deck, ou si votre adversaire contrôle un monstre, vous pouvez l'ajouter à votre main à la place. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
