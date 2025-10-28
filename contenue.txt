@@ -237,11 +237,8 @@ texte:
 
 
 Comment jouer le deck poupée truquée:
-   
-    - "Gadarla, Kaiju de la Poussière Mystérieuse": sacrifier un monstre de l'adversaire pour invoqsuer Spécialement cette carte;
     
     
-    - "Appelé par la Tombe": carte qui contre les hands draps;
     - "À Forces Égales": vous pouvez faire bannir face verso à votre adversaire des cartes depuis son Terrain jusqu'à ce qu'il contrôle le même nombre de cartes que vous.
     - "Poupée Truquée Gigantes": gagner le controle d'un monstre de l'adversaire et Sacrifier cette carte ; jusqu'à la fin de ce tour, tous les monstres que vous contrôlez 
         actuellement deviennent de Niveau 8.
@@ -262,6 +259,8 @@ Comment jouer le deck poupée truquée:
     
 
 carte mentionner :
+- "Appelé par la Tombe": carte qui contre les hands draps;
+- "Gadarla, Kaiju de la Poussière Mystérieuse": sacrifier un monstre de l'adversaire pour invoqsuer Spécialement cette carte sur le terrain de l'adversaire;
 - "Floraison de Cendres et Joyeux Printemps"
 - "Talent des Triples Tactiques": Si votre adversaire a activé un effet de monstre durant votre Main Phase ce tour : activez 1 de ces effets, Piochez 2 cartes, 
     Jusqu'à la End Phase, prenez le contrôle d'1 monstre contrôlé par votre adversaire, Regardez la main de votre adversaire, et choisissez-en 1 carte à mélanger dans le Deck.
@@ -401,6 +400,7 @@ Invoquer:
 
 - "Super Tueur des Étoiles TY-PHON - Crise Céleste": invoquer par Xyz cette carte en utilisant 1 monstre que vous contrôlez avec la plus haute ATK
 
+- "Gadarla, Kaiju de la Poussière Mystérieuse": sacrifier un monstre de l'adversaire pour invoqsuer Spécialement cette carte sur le terrain de l'adversaire;
 
 
 
@@ -408,8 +408,7 @@ Invoquer:
 
 
 
-
-Pour aider le deck, il y a des hands draps (des cartes pour gainer l'adversaire qui s'active depuis la main): 
+Pour aider le deck, il y a des hands traps (des cartes pour gainer l'adversaire qui s'active depuis la main): 
     - "Floraison de Cendres et Joyeux Printemps" annule les effets: 
         Ajouter une carte depuis le Deck à la main, 
         invoquer Spécialement depuis le Deck 
@@ -425,6 +424,7 @@ Pour aider le deck, il y a des hands draps (des cartes pour gainer l'adversaire 
     - "Poussée des Triples Tactiques" Si votre adversaire a activé un effet de monstre durant ce tour : 
         Posez 1 Magie Normale/Piège Normal (la carte Posée ne peut pas être activée) depuis votre Deck, ou si votre adversaire contrôle un monstre, vous pouvez l'ajouter à votre main à la place. 
 
+Pour contrer les hands traps il y a la carte: "Appelé par la Tombe"
 
 
 
